@@ -1,3 +1,5 @@
+**About**
+
 A simple Todo App built using React and Typescript
 
 To start the server
